@@ -1,6 +1,6 @@
 # *Responsive Layout*
 *Twitter like button with animations*
-![INTRO](./_preview.gif)
+![HEART](./_preview.gif)
 
 
 
