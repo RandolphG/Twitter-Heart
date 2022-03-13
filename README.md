@@ -1,5 +1,5 @@
 # *Responsive Layout*
-*Responsive layouts using css grid*
+*Twitter like button with animations*
 ![INTRO](./_preview.gif)
 
 
@@ -16,7 +16,7 @@
 - run with yarn start or npm
 
 ```bash
-$ git clone https://github.com/RandolphG/Responsive-Layout
+$ git clone https://github.com/RandolphG/Twitter-Heart
 $ cd project folder
 $ yarn or npm i
 $ yarn start or npm start
@@ -36,4 +36,4 @@ $ jest
 ## *Application Sections*
 
 Application is split mainly in one part.
-- Responsive Layout
+- Heart Animaiton
