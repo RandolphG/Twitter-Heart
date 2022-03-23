@@ -6,7 +6,6 @@
 
 
 ### *Technologies* :
-- [*Hooks*](https://reactjs.org/docs/hooks-intro.html)
 - [*SCSS*](https://sass-lang.com/)
 
 ### *Installation process* :
@@ -22,18 +21,7 @@ $ yarn or npm i
 $ yarn start or npm start
 ```
 
-## *Testing with Jest*
-- install jest
-- navigate to project root folder
-- run jest
-
-```bash
-$ yarn add -global jest
-$ cd project folder
-$ jest
-```
-
 ## *Application Sections*
 
 Application is split mainly in one part.
-- Heart Animaiton
+- Heart Animation Component

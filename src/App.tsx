@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./styles.scss";
 
-function App() {
+function Heart() {
   const [toggle, setToggle] = useState(false);
 
   const onClick = () => {
@@ -15,4 +15,4 @@ function App() {
   );
 }
 
-export default App;
+export default Heart;
