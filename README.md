@@ -1,8 +1,6 @@
-# *Responsive Layout*
+# *Animated Like Button*
 *Twitter like button with animations*
 ![HEART](./_preview.gif)
-
-
 
 
 ### *Technologies* :
